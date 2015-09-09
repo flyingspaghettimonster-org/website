@@ -1,0 +1,10 @@
+# Site settings
+title: FlyingSpaghettiMonster.org
+email: tim@FlyingSpaghettiMonster.org
+description: >
+  Praise be to his noodly goodness!
+baseurl: ""
+url: "https://flyingspaghettimonster.org"
+
+# Build settings
+markdown: kramdown
